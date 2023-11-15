@@ -69,7 +69,7 @@ if(cantPilas=0){
 	return 1;}
 else{
  System.out.print("cantidad de pilas minimo: "+cantPilas);
-	return ;}
+	return cantPilas;}
 }
 
 }//fin clase
