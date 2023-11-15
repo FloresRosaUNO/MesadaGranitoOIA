@@ -64,8 +64,12 @@ private int calcular(ArrayList<Mesada> j) {
 		}
 
 	}
-	System.out.print("cantidad de pilas minimo: "+cantPilas);
-	return cantPilas;
+ir(cantPilas=0){
+	System.out.print("cantidad de pilas minimo: "+1);
+	return 1;}
+else{
+ System.out.print("cantidad de pilas minimo: "+cantPilas);
+	return ;}
 }
 
 }//fin clase
