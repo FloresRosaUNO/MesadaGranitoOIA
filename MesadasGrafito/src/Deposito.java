@@ -72,8 +72,9 @@ if(j.isEmpty()==false){
     System.out.print("cantidad de pilas minimo: "+cantPilas);
 	  cantPilas;}
   }
-}
 else return cantPilas;
+}
+
 
 }//fin clase
 
