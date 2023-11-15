@@ -64,7 +64,7 @@ private int calcular(ArrayList<Mesada> j) {
 		}
 
 	}
-ir(cantPilas=0){
+if(cantPilas=0){
 	System.out.print("cantidad de pilas minimo: "+1);
 	return 1;}
 else{
